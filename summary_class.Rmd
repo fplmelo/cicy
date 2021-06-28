@@ -25,11 +25,20 @@ This is a revision class aiming to summarize what is a novel landscape, what is 
 
 ## Novel Ecosystems
 
-Ecology has been historically focused on what explains sepecies assembly (ocurrence and abundance) in the remanants of natural habitats as if they were discrete categories or entities. The concept of novel ecosystem emerged to cope with the duality between 'natural and non-natural' or between 'pristine vs. degraded'. Excepting for the large tracts of natural terretrial systems such as the boreal forests of the tropical ones, almost all ecosystems of the Earth are embedded into a 'human matrix'. New species come while others, more sensitive can go or become locally extinct. The expected consequences varies from small changes in species abudannce or composition to large disruptions in ecosytem functions.
+Ecology aims on what explains sepecies assembly (ocurrence and abundance) in the remnants of natural habitats as if they were discrete categories or entities. The concept of novel ecosystem emerged to cope with the duality between 'natural and non-natural' or between 'pristine vs. degraded'. Excepting for the large tracts of natural terretrial systems such as the boreal forests of the tropical ones, almost all ecosystems of the Earth are embedded into a 'human matrix'. New species come while others, more sensitive can go or become locally extinct. The expected consequences varies from small changes in species abudannce or composition to large disruptions in ecosytem functions.
 
 The idea that the earth systems experience varying degrees of human influence is a central issue in modern ecology, princiaplly when it comes to assess the future of biodiversity in our planet. While the term novel ecosystems brings a definition of this emerging landscapes, the notion of human-modified landscapes tries to assess how modified can be a landscapem mostly using concepts and tools of the landscape ecology. Actually, ecologists know to assess the landscape structure and quantify aspects of both composition and configuration of huma-modified landscapes. 
 
-More recently, the notion of Anthromes came to redraft our view of human dominated landscapes. 
+More recently, the notion of Anthromes came to redraft our view of human dominated landscapes. This notion helps to estimate tha amount of earth surface used by humans and classify types of land use as well as place them in time, reconstructing a sort of sequence that initiates with extraction of natural resources and end up wiht urban ecosystems. Understanding land use dynamics, its drivers and its effectc on biodiversity is crucial to plan and execute managemetne strategies to minimized species loss while incrasing benefits to diverse human societies. 
+
+### To know more
+1) Novel Ecosystems
+
+2) Antromes project
+
+## Habitat fragmentation  
+
+Among the many consequences of land use changes, one of the most studied and pervasive is the 'habitat fragmentation'. There is an ongoing debate on whether habitat framgentaion is good or bad to biodiverity [refs]() but solving this dilemma is beyond the scope of this class (but I recommend reading the main arguments). 
 
 
 
