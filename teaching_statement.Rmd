@@ -1,52 +1,28 @@
 ---
-title: "Teaching philosophy, practice and pedagogical backgrounds"
+title: "Docencia y formación de personal"
 author: "Felipe Melo"
 date: ""
 output: html_document
 ---
 
-"_...You are an inspiring teacher who enjoys educating <br>
-the change-makers of the future..._"
 
+He dirigido tesis de más de una docena de estudiantes de licenciatura, siete de maestría y cuatro de doctorado y supervisé por lo menos un posdoc en mi laboratorio. Mis estudiantes, en su mayoría, lograron publicar  sus tesis en buenas revistas indizadas tales como: Restoration Ecology, Journal of Environmental Management, Journal of Ecology, Basic and Applied Ecology, Land Degradation and Development and Global Ecology and Biogeography. Muchos de mis estudiantes han logrado fondos nacionales e internacionales para sus investigaciones por medio de un taller de escritura de proyectos para financiamientos que ofrezco anualmente en Brasil. Percibí que hay un curso similar en el programa del Posgrado en Ciencias Biológicas (opción Recursos Naturales) llamado Diseño y financiamiento de proyectos con el cual tendría gran placer en contribuir con mi experiencia de varios proyectos financiados desde el doctorado hasta la fecha.
 
-## **Teaching overview**
+Pretendo colaborar intensamente con el Posgrado en Ciencias Biológicas, para el cual tengo pensada la oferta académica de un nuevo curso. Dicho curso está diseñado siguiendo el formato del curso de campo intensivo que coordino en Brasil y otros en los que he participado en diversos ecosistemas tropicales de México y Brasil, incluyendo el curso que coordina el Dr. Victor Arroyo Rodríguez (ENES-Mérida) en la UNAM y en el que he participado por más de 10 años. El curso  que he diseñado se llama Curso de Campo en Ecología y Restauración de Neoecosistemas y su objetivo es realizar investigaciones cortas y direccionadas para la restauración de paisajes antropogénicos típicos de la Península de Yucatán. Para ello, se discutirá las bases científicas de la restauración, ecología funcional, ecología del paisaje y ecología ecosistémica. Además, de manera crítica vamos a discutir los modelos de restauración y sus consecuencias socioeconómicas, sus retos y diferentes visiones. Por lo general, en los cursos que coordino y/o participo, los alumnos generan productos como libros ([ver este link](https://sites.google.com/site/cursocaatinga/fotos?authuser=1)) o números de revistas electrónicas que simulan todo el proceso editorial científico y es coordinado por los mismo estudiantes con la supervisión de los maestros del curso. Pretendo replicar este modelo para el curso que tengo pensado para el CICY. 
 
-Being a teacher is amongst the most rewarding aspects of my career as a biologist and I believe that teaching  must go hand in hand with research development. Teaching science is revolutionary in many ways because it changes points of views and challenges beliefs and dogmas. Early in my career I mirrored the science teachers and science popularization authors whose mission was to serve as a “candle in the dark in a demon-haunted world”, quoting Carl’s Sagan famous book. 
-I am an enthusiastic practitioner of [Paulo Freire’s critical pedagogy](https://en.wikipedia.org/wiki/Paulo_Freire). Freire’s ideas are based on the fact that literacy in general but also science literacy, must be committed to the transformation of realities. For this, the concepts and tools must be put in context, describe the surroundings of the students and provide a key to change their realities. This is one of the core principles of my teaching practice. 
-
-## **Teaching practice**
-
-I can describe my teaching practice as a combination of critical pedagogy anchored on active methods of learning through problem-based methods. My favorite learning and teaching experiences are largely based on ‘learning by doing’ and ‘project-based learning’ methods. 
-
-"_...We expect you to contribute to field courses and <br>
-general courses on land use, biodiversity <br>
-and related sustainability topics..._"
-
-I have coordinated, co-organized or participated in over 30 field-courses of ecology and conservation across many states of [Brazil](https://sites.google.com/site/cursocaatinga/home?authuser=1) and [Mexico](http://www.iies.unam.mx/laboratorios/ecologia-paisajes-fragmentados/cursos/) that delivered to students a high quality experience. Evaluation methods in these field courses are based on the production of scientific papers that goes through a simulated peer-review process (among course teachers) and are published on simulated scientific journals or real books organized and edited by the very participants and published yearly into volumes (see examples [here](http://www.iies.unam.mx/laboratorios/ecologia-paisajes-fragmentados/wp-content/uploads/2020/02/TheMexicanNaturalist_vol10.pdf) and [here](https://docs.wixstatic.com/ugd/4c522e_abadfd1f06cf424e84f0e685a11d616b.pdf)). This stimulates another critical skill for successful careers: scientific writing. Students must get used to both writing their own reports and reviewing other student's works, thus facing the challenges of scientific communication. I have also invested in creating sites, HTML slides and exercises that helped students to keep their learning remotely during COVID pandemics (examples in [my personal website](https://ecoaplic.org/en/courses/)). 
-
-## **Student supervision and mentoring**
-
-"_...you will be involved in supervising PhD students and postdocs. <br> 
-You will teach in the Bachelor's programme Global Sustainability Science <br>
-and in the Master's programme Sustainable Development..._"
-
-As a supervisor and laboratory leader, I try to keep my team as diverse as possible in terms of gender, race and social classes. My philosophy and practice as supervisor is based on stimulating students to pursue their own goals and improving their critical thinking and independence. I strive to promote a collaborative environment where every student in the team has the chance to act as co-supervisors of their colleagues. I use to guide students towards independence and self-learning abilities as to prepare them for a competitive professional environment. 
-
-Many of my former and current students successfully received funds from small research grants such as Rufford Small Grants - UK (see example [here](https://www.rufford.org/projects/pedro-henrique-albuquerque-sena/assessing-the-effects-of-disturbance-on-the-biodiversity-ecosystem-services-bes-relationship-in-socioecological-systems/) and [here](https://www.rufford.org/projects/maria-joana-da-silva-specht/burning-for-sustainability-determinants-of-firewood-consumption-in-a-hyper-fragmented-landscape-of-tropical-forest-in-north-eastern-brazil/)) and other fellowships from diverse sources after a dedicated workshop I organize regularly with the lab team. I firmly believe that student supervision is a key academic activity and I am proud of the scientific achievements of the ethnic and gender-diverse group of undergrad and graduate students I trained. 
-
-## @teaching
+## @enseñanza
 
 <img src=https://ecoaplic.org/en/home/gallery/gallery/Curso%20chajul%20%2870%29.jpg>
 
-Workshop on biodiversity for local children @ Field Course 2017 in Lacandona Forest, Mexico
+Workshop sobre biodiversidad para niños @ Curso de Campo 2017 en la Selva Lacandona, Mexico
 
 
 <img src=cc.jpg>
 
-Field Course in Ecology and Conservation of Tropical Dry Forests, 2019, Parque Nacional do Catimbau, Brazil
+Curso de Campo en Ecología y Conservación de la Caatinga en el 2019, Parque Nacional do Catimbau, Brasil
 
 <img src=images/colombia.png>
 
-Field Course of Landscape Restoration for cattle ranchers in Valledupar, Colombia, 2015
+Cursod e Campo sobre Restauración de Paisajes Ganaderos en Valledupar, Colombia, 2015
 
 

@@ -1,66 +1,14 @@
 ---
-title: "Research Plans for the Copernicus Institute"
+title: "Planes de investigación para el CICY"
 author: "Felipe Melo"
 date: ""
 output: html_document
 ---
 
-## **Research overview**
+**Intereses de investigación**
 
-The broad question that guides my research program is: **How biodiversity and human livelihoods are intertwined in human-modified landscapes?** To answer this question, I draw on both the theoretical and analytical tools of natural sciences and on the social-ecological systems (SES) framework. I am interested in all kinds of interactions between biodiversity (especially plants) and human activities that take place in working landscapes such as rangelands, farmlands, peri-urban and fragmented landscapes. 
+Mis intereses científicos son diversos y abarcan temas relacionados a la gran área de ecología aplicada, con especial enfoque para restauración ecológica y ecología del paisaje. El hilo conductor de mi investigación es la pregunta: ¿Cómo mantener la biodiversidad en paisajes modificados por el hombre? Esta pregunta científica fue la que me acercó a la ciencia de la restauración ecológica. No veo la restauración apenas como un método de recuperación de áreas degradadas, sino como un framework teórico/práctico para el estudio e intervención en los paisajes socioecológicos. Por lo tanto, para contestar a esta pregunta he conducido proyectos de investigación que la abordan desde distintas perspectivas como: restauración ecológica, ecología del paisaje, ecología funcional, manejo de recursos naturales y dinámica de socio-ecosistemas. Para dar un ejemplo reciente, en la actualidad coordino un gran proyecto de perfil multidisciplinario que busca entender el papel de la restauración forestal para la sostenibilidad y las seguridades alimentaria, hídrica y energética en regiones de bosque seco de Brasil. 
 
-I strive to understand how biodiversity persists in human-modified landscapes. I have been addressing this question though different apporaches such as: The role of human-modified landscapes in maintaining biodiversity [<sup>1<sup>](https://www.sciencedirect.com/science/article/abs/pii/S0169534713000037); How proliferation of disturbance-adapted species cause biotic homogenization [<sup>2<sup>](https://www.sciencedirect.com/science/article/abs/pii/S0169534721000562); and assessing alternative successional pathways in Tropical forests [<sup>3<sup>](https://onlinelibrary.wiley.com/doi/10.1111/brv.12231). However, I am also very interested in the political ecology of restoration and I accumulated some reflection on how to scale-up long lasting restoration projects [<sup>4<sup>](https://www.sciencedirect.com/science/article/abs/pii/S1462901113001494) Recently, I introduced the novel concept of “forest security” as a fourth dimension for the water, energy and food security nexus [<sup>5<sup>](https://www.nature.com/articles/s41893-020-00608-z). Briefly, I strive to understand both drivers and consequences of biodiversity rearrangements in novel landscapes. Therefore, there seems to be a strong match between my own research goals and the Copernicus Institute view on the challenges for a sustainable future, as stated in the job advertisement: 
-
-"_... Preserving biodiversity is one of the major sustainability <br>
-challenges of our time, and strongly interacts with other sustainability<br>
-themes. Both the drivers and the impacts of biodiversity loss are <br>
-intertwined with natural and societal processes at various scales,<br>
-ranging from local to global..._"
-
-My plans for the next years at the Copernicus Institute is to build a dedicated research group on **sustainable management of social-ecological landscapes**, working on the interface between ecological and social sciences. This is the result of the maturity and development of my critical thinking on the drivers of biodiversity rearrangements in human-dominated ecosystems. Landscapes are not naturally given, but constructed, even the “wildest” ones. Therefore, I believe that an integrated approach to biodiversity conservation demands the assessment of both human and non-human components of a landscape. 
-
-In the short to medium term, this research program aims to address the following questions: 
-
-1. What constitutes a good measure of "forest security" and why?
-2. How are biodiversity and ecosystem functions related in tropical ecosystems?
-3. What is the contribution of nature to human livelihoods in tropical forests? 
-
-The long-term goal is to create a synthesis working group aiming to quantify nature's contributions to people across tropical forests while assessing how human activities affects biodiversity in social-ecological landscapes. I draw on both conceptual and analytical tools from landscape ecology, functional ecology and social-ecological systems frameworks. This also matches the  profile of the scholar in the job advertisement:
-
-"_...You have a systems approach (e.g., social-ecological systems, complexity or nexus approaches) <br>
-and are able to integrate across multiple disciplines and scales..._"
-
-
-
-## **Current research projects**
-
-### **Assessing the role of forests for water, energy and food securities**
-
-This project aims to understand human dependencies on forest services through the quantification of the concept of “forest security” that adds a new dimension to the water, energy and food security nexus (WEF-Nexus). I am the principal investigator (PI) of this project and received a grant from the Brazilian Science Council (CNPq). I lead a diverse team formed by a research team of academic staff and graduate students from three countries (USA, UK and Brazil).
-
-<img src=images/wef.png>
-
-[**Melo et al (2021, Nature Sustainability)**](https://www.nature.com/articles/s41893-020-00608-z)
-
-This research project seems to be in line with the established expertises of the Copernicus Institute as it works exactly on the "_intersection of natural and social sciences_". 
-
-
-### **cDEEP - Caatina Dry Ecosystem Ecological Program**
-
-The second research project aims to assess the relationships between biodiversity and ecosystem function (BEF). Changes in alpha and beta diversity (considering both the taxonomic and functional dimensions) must affect how human-impacted ecosystems function and this can be assessed through many types of stressors such as: fire, nutrient availability and biological invasion. This research program is part of a global network of experiments on dry forests [(NutNet-DAGnet)](https://nutnet.org/dragnet) and a drone-view of the site can be seen in this [video](https://youtu.be/C21RHdxeu3E). In this long-term ecological experiment conducted in collaboration among Brazilian colleagues we want to assess how stressors linked to typical land use of the Brazilian dry forest such as goats pastoralism, slash-and-burn agriculture and biological invasion affect the assembly patterns and processes of biological communities of plants and insects.
-
-<img src=images/cdeep.jpeg>
-
-This project summarizes my training in natural sciences as I am testing here what happens to biodiversity in face oh human-caused disturbances and how ecological functions change with it. The stressors simulate consequences of common land-use that, although are being treated at the local scale with a solid experimental design, can be up-scaled to global questions related to climate and societal changes. 
-
-The job advertisement says:
-
-"_...Your research contributes to understanding the relation between biodiversity <br>
-and other global change and societal challenges, such as climate and land-use change<br>
-at a variety of scales in order to design solutions for halting biodiversity loss. <br>
-You have a systems approach (e.g., social-ecological systems, complexity or nexus approaches)<br>
-and are able to integrate across multiple disciplines and scales..._"
-
-I see myself.
+Mis planes de investigación están enfocados en profundizar el entendimiento de los paisajes socio-ecológicos de la península de Yucatán. Me defino como un científico de perfil sintético y con diversos intereses, y por ello, fuertemente inclinado hacia la actuación interdisciplinaria especialmente en la interfaz entre la ecología y las ciencias humanas. En pocas líneas, mi objetivo para el CICY es consolidar un grupo de investigación dedicado a la ecología, manejo y restauración de sistemas socio-ecológicos con especial énfasis en temas como: restauración forestal integrada, ecología funcional, manejo de especies invasoras, uso de recursos naturales, relación pobreza-naturaleza y ecología política. Este plan de investigación tiene gran potencial de sumar a las aspiraciones institucionales del CICY y tiene gran posibilidad de interacción con grupos y líneas de investigación ya consolidadas en el CICY.
 
 

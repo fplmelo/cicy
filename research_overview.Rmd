@@ -8,10 +8,10 @@ output:
 ---
 
 
-### Bellow I present my reserach interests and plans, teaching philosphy and practice amd science outreach
+### Abajo econtrará la presentación sobre mis intereses de investigación, proyecto y plan de trabajo para los próximos tres años en el CICY
 
-**To activate full screen, please click with mouse in the presentation window and then press "f" on your keyboard. Use scroll or arrows to control slides.**
+**Para activar el modo de "pantalla completa" haga click sobre la presentación y despues presione la tecla "f" en su teclado. Para adelantar y/o retroceder las diapositivas solo usa las flechas hacia derecha y/o izquierda.**
 
 ```{r, echo=FALSE}
-xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/presentation_2nd_roud.html", ratio = "16:9")
+xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/research_presentation_long.html", ratio = "16:9")
 ```

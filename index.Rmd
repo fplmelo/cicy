@@ -1,5 +1,5 @@
 ---
-title: "Selection Process for Copernicus Institute at Utrecht University"
+title: "Proceso de selección para el CICY"
 output: html_document
    
 ---
@@ -18,24 +18,24 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Selection Process for Copernicus Institute**
+# **Proceso selectivo para plaza de investigador**
 
-## How to navigate this site
+## ¿Cómo fuinciona este sitioweb?
 
-1. In the section **Slides presentation** you will find a short presentation on my research overview and a brief description on my past, present and future research plans.
+1. En la sección **Presentación** el comité de selecipon encontrará la presentación sobre el proyuecto de investigación del candidato.
 
-2. In the section **Research Vision** I offer some words on my research vision, philosophy and goals.
+2. En la sección **Visión sobre investigación** Ofrezco mi concepción sobre la producción científica de calidad y con impacto social.
 
-3. In the section **Teaching Overview** I briefly explain my approach to education, methods, practices and outputs.
+3. En la aba **Visión sobre enseñanza** describo resumidamente como veo mi papel el proceso de formación de nuevos investigadores jévenes.
 
-4. In the section **Why Copernicus Institute?** I highlight some congruences between my career plans and the scholar profile of the job advertisement.
+4. Por último en:  **Mi plan para el CICY** Presento mis razones para competir por esta plaza y mis planes para sumar al CICY.
 
-*Note: I use several quotes extracted from the job advertisement as to demonstrate that my profile matches with the job.*
+
 
 </div>
 <div class="col-sm-6">
 
-![](images/uu-logo.png)
+![](images/cicy_logo.png)
 
 
 

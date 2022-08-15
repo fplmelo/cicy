@@ -1,20 +1,40 @@
-.navbar-inverse {
-  background-color: #ffcd00;
+/*----------------NAVBAR ---------------*/
+.navbar-default {
+    background-color: #7b811d;
 }
-.navbar-inverse .navbar-brand {
-  color: #3b3b3b;
+
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.active>a, 
+a.dropdown-toggle:hover {
+  background-color: #7b811d !important;
 }
-.navbar-inverse .navbar-nav>li>a {
-  color: #3b3b3b;
+
+/* Dropdown menu color */
+.navbar-default .dropdown-menu {
+  background-color: #7b811d;
 }
-.navbar-inverse .navbar-nav>.active>a {
-  background-color: #ffcd00;
+
+/* Dropdown menu hover color */
+  .navbar-default .dropdown-menu>li>a:hover {
+    background-color: #7b811d;
+  }
+
+/* Navbar Links when hovered*/
+.navbar-default .dropdown-menu>.active>a
+.navbar-default .navbar-nav>.active>a:hover, 
+.navbar-default .navbar-nav:hover, 
+.navbar-default .navbar-nav>li>a:hover, 
+a.navbar-brand:hover {
+  color: #ffffffab !important;
+  background-color: #7b811d;
 }
-.list-group-item.active {
-  background-color: #222;
-  border-color: #222;
+
+/* Whole document: */
+body{
+  font-family: OpenSans;
+  font-size: 10pt;
 }
-item.active, .list-group-item.active:hover {
-  background-color: #222;
-  border-color: #222;
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-size: 20pt;
 }
