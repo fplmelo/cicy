@@ -1,0 +1,13 @@
+---
+title: "Planes de investigación para el CICY"
+author: "Felipe Melo"
+date: ""
+output: html_document
+---
+
+
+Mis intereses científicos son diversos y abarcan temas relacionados a la gran área de ecología aplicada, con especial enfoque para restauración ecológica y ecología del paisaje. El hilo conductor de mi investigación es la pregunta: **¿Cómo mantener la biodiversidad en paisajes modificados por el hombre?** Esta pregunta científica fue la que me acercó a la ciencia de la restauración ecológica. No veo la restauración apenas como un método de recuperación de áreas degradadas, sino como un framework teórico/práctico para el estudio e intervención en los paisajes socioecológicos. Por lo tanto, para contestar a esta pregunta he conducido proyectos de investigación que la abordan desde distintas perspectivas como: restauración ecológica, ecología del paisaje, ecología funcional, manejo de recursos naturales y dinámica de socio-ecosistemas. Para dar un ejemplo reciente, en la actualidad coordino un gran proyecto de perfil multidisciplinario que busca entender el papel de la restauración forestal para la sostenibilidad y las seguridades alimentaria, hídrica y energética en regiones de bosque seco de Brasil. 
+
+Mis planes de investigación están enfocados en profundizar el entendimiento de los paisajes socio-ecológicos de la península de Yucatán. Me defino como un científico de perfil sintético y con diversos intereses, y por ello, fuertemente inclinado hacia la actuación interdisciplinaria especialmente en la interfaz entre la ecología y las ciencias humanas. En pocas líneas, mi objetivo para el CICY es consolidar un grupo de investigación dedicado a la ecología, manejo y restauración de sistemas socio-ecológicos con especial énfasis en temas como: restauración forestal integrada, ecología funcional, manejo de especies invasoras, uso de recursos naturales, relación pobreza-naturaleza y ecología política. Este plan de investigación tiene gran potencial de sumar a las aspiraciones institucionales del CICY y tiene gran posibilidad de interacción con grupos y líneas de investigación ya consolidadas en el CICY.
+
+

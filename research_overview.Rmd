@@ -1,7 +1,7 @@
 ---
 title: "Research, teaching and outreach strategies"
 author: "Dr. Felipe Melo"
-date: "18/02/2022"
+date: ""
 output:
   html_document:
     df_print: paged
@@ -13,5 +13,5 @@ output:
 **Para activar el modo de "pantalla completa" haga click sobre la presentación y despues presione la tecla "f" en su teclado. Para adelantar y/o retroceder las diapositivas solo usa las flechas hacia derecha y/o izquierda.**
 
 ```{r, echo=FALSE}
-xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/copernicus/slides/research_presentation_long.html", ratio = "16:9")
+xaringanExtra::embed_xaringan(url="https://fplmelo.github.io/cicy/slides/research_presentation_long.html", ratio = "16:9")
 ```
