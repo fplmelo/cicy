@@ -51,12 +51,13 @@
  ****************/
  
  .title-slide {
-  background-color: #000000;
+  background-color: #7b811d;
   background-size: cover;
 }
 
 .title-slide {
-  background-image: url(libs/cop_inst.jpg);
   background-size: cover;
   background-position: bottom, right;
 }
+
+
