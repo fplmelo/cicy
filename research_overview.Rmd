@@ -1,6 +1,6 @@
 ---
-title: "Research, teaching and outreach strategies"
-author: "Dr. Felipe Melo"
+title: "Presentación para entrevista CICY"
+author: ""
 date: ""
 output:
   html_document:

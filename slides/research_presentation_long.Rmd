@@ -50,7 +50,7 @@ class: center, middle
 ##- Intereses de investigación
 --
 
-##- Proyecto de investigación para los próximos tres años
+##- Proyecto de investigación
 --
 
 ##- Práctica docente
@@ -65,8 +65,9 @@ background-image: url("libs/usga_land.png")
 class: center, middle
 --
 .content-box-gray[
-# Intereses científicos]
+# Intereses científicos
 ]
+
 
 ---
 background-position: center
