@@ -3,7 +3,7 @@ output_dir: "docs"
 output:  
   html_document:  
     self_contained: no  
-    theme: yeti
+    theme: cosmo
     css: custom.css
     
 navbar:
@@ -11,10 +11,10 @@ navbar:
   left:
     - text: "Presentación"
       href: research_overview.html
-    - text: "Visión sobre Investigación"
+    - text: "Investigación"
       href: investigacion.html
-    - text: "Visión sobre enseñanza"
+    - text: "Docencia"
       href: ensenanza.html
-    - text: "Aportes al CICY"
+    - text: "Vinculación"
       href: plan_cicy.html
     

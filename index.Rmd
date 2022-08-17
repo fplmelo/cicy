@@ -24,11 +24,11 @@ output: html_document
 
 1. En la sección **Presentación** el comité de selecipon encontrará la presentación sobre el proyuecto de investigación del candidato.
 
-2. En la sección **Visión sobre investigación** Ofrezco mi concepción sobre la producción científica de calidad y con impacto social.
+2. En la sección **Investigación** ofrezco mi concepción sobre la producción científica de calidad y con impacto social.
 
-3. En la aba **Visión sobre enseñanza** describo resumidamente como veo mi papel el proceso de formación de nuevos investigadores jévenes.
+3. En la aba **Docencia** describo resumidamente como veo mi papel el proceso de formación de nuevos investigadores jévenes.
 
-4. Por último en:  **Mi plan para el CICY** Presento mis razones para competir por esta plaza y mis planes para sumar al CICY.
+4. Por último en:  **Vinculación** presento mi experiencia en la vinculación ciudadana de mi práctica científica y como pretendo sumar al CICY.
 
 
 
