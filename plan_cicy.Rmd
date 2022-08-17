@@ -10,4 +10,7 @@ Tengo larga y documentada experiencia en vinculación del conocimiento científi
 
 Concluyo afirmando que sería un gran honor y una maravillosa oportunidad establecer nuevos retos científicos, personales y académicos en México y tener la oportunidad de desarrollar nuevas habilidades en el ambiente colaborativo y de excelencia del CICY. La institución podrá contar con un investigador con experiencia y productividad suficiente para pertenecer al Sistema Nacional de Investigadores, al menos con nivel II en la primera convocatoria. Así, aunque parezca sobrecalificado para la plaza, estoy seguro que muy prontamente pueda ascender al nivel de titular que me corresponda por mi productividad. Mi propuesta es compartir con el plantel del CICY toda mi experiencia académica y la red de cooperación que establecí tras años de trabajo consistente. Volver a vivir y trabajar en México es más que una oportunidad, es la realización de un proyecto de vida.
 
-<iframe width="860" height="615" src="https://www.youtube.com/watch?v=rQHAgyrXims" > </iframe>
+<iframe width="860" height="615" 
+src="https://www.youtube.com/watch?v=rQHAgyrXims" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"> 
+</iframe>
