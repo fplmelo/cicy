@@ -1,6 +1,6 @@
 ---
 title: "Docencia y formación de personal"
-author: "Felipe Melo"
+author: ""
 date: ""
 output: html_document
 ---
