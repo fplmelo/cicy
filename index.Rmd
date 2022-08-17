@@ -20,7 +20,7 @@ output: html_document
 
 # **Proceso selectivo para plaza de investigador**
 
-## ¿Cómo fuinciona este sitioweb?
+## ¿Cómo funciona este sitioweb?
 
 1. En la sección **Presentación** el comité de selecipon encontrará la presentación sobre el proyuecto de investigación del candidato.
 
