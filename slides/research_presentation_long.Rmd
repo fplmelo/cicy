@@ -40,6 +40,7 @@ class: center, middle
 ###- Investigación (>50 trabajos científicos com casi 6 mil citas)
 ###- Docencia (diversos cursos en ecología)
 ###- Supervisión de estudiantes (6 PhD; 8 MSc; 15 BSc)
+###- Vinculación de la ciencia (políticas públicas y comunicación)
 
 ]
 
@@ -179,7 +180,7 @@ class: center
 ]
 --
 .pull-right[
-<img src= libs/sena_fig.png width = 350>
+<img src= libs/hybrid_caat.png width = 550>
 
 .content-box-gray[[Melo 2017](https://link.springer.com/chapter/10.1007/978-3-319-68339-3_14)]
 
@@ -258,7 +259,8 @@ class: middle, center
 ]
 .pull-right[
 
-<img src=libs/sena_fig.png width = 800>
+<img src=libs/sena_fig.png width = 600>
+[Sena et al 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/rec.13599)
 ]
 ---
 .pull-left[
@@ -277,7 +279,7 @@ class: middle, center
 
 ###- Síndromes funcionales
 ###- Gradientes ambientales
-###- Abunmdancias de las especies en el paisaje
+###- Abundancias de las especies en el paisaje
 ###- Análisis robustas
 ]
 .right-column[
@@ -290,7 +292,7 @@ background-size: 120%
 background-image: url("libs/cenote.jpg")
 class: middle, center
 .content-box-gray[
-# Objetivo 2: Entender la relación entre pobreza y cubertura forestal]
+# Objetivo 2: Entender la relación entre pobreza y cobertura forestal]
 
 ---
 # Pobreza en México
